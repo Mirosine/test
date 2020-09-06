@@ -1,0 +1,1 @@
+[+] student panel has been added successfully
